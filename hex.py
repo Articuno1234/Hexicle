@@ -11,4 +11,4 @@ print("Hexicle is made by Articuno and has help from others if you do wish to he
       "=========================================================================\n"
       "if you want to add an extention/cog to Hexicle give\n"
       "@Articuno™&© | Hexicle Creator#9712 to add it\n" 
-      "WARNING! all repos must be in discord.py!\n"
+      "WARNING! all repos must be in discord.py!\n")
