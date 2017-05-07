@@ -1,4 +1,4 @@
-print('Hexicle is made by Articuno and has help from others if you do wish to help join the Hexicle offical server\n"
+print("Hexicle is made by Articuno and has help from others if you do wish to help join the Hexicle offical server\n"
 "please if you need code please dont try reprogram it without asking for permissions\n"
 "from Articuno!\n"
 "\n"
