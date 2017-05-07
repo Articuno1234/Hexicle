@@ -1,11 +1,27 @@
-## Welcome to the Hexicle Website 
-`Hexicle is made with discord.py`
+## This is the offical Hexicle Github!
 
 
-Want to invite Hexicle?
-[invite here!](https://discordapp.com/oauth2/authorize?client_id=296902139790491650&scope=bot)
+this repo is allowed to be dowloaded!
 
-or want to join the Hexicle server?
+when you download this repo make sure you have
+`git`
+and
+`python3` or `python3.5`
 
-[join here!](https://discord.gg/5kQ8JTX)
+## Cloning
 
+```
+git clone https://github.com/Articuno1234/Hexicle.git
+```
+
+## using
+
+```
+cd Hexicle
+python3 hex.py
+```
+or
+```
+cd Hexicle
+python3.5 hex.py
+```
