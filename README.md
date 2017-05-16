@@ -1,6 +1,6 @@
 ## This is the offical Hexicle Github!
 
-
+[<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py)
 this repo is allowed to be dowloaded!
 
 when you download this repo make sure you have
